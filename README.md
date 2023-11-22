@@ -1,7 +1,11 @@
-echo "# To-Do-list" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin https://github.com/IshikaAgrawal2109/To-Do-list.git
-  git push -u origin main
+# TO-DO-LIST
+
+TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
+
+You can see the website live at: https://ishikaagrawal2109.github.io/
+
+ABOUT THIS PROJECT-:
+
+  1. In this project i have created a simple to-do app using HTML CSS and JavaScript.
+  2. Built a To-Do List application to make a list of daily works written down in one place.
+  3. Implemented functionalities like add task, remove task, filter tasks and also mark tasks as done. 
